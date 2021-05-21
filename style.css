@@ -1,0 +1,36 @@
+td{
+    color: rgb(255, 255, 255);
+    font-size: large;
+    text-align: center;
+    text-decoration-color: antiquewhite;
+    border: 1px solid rgb(220,220,220);
+    
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+#cocina{
+    background: url('https://i.pinimg.com/originals/c9/df/30/c9df3040656959d246d9914b547ef26d.jpg');
+    background-size: 430px 350px;
+}
+#comedor{
+    background: url('https://www.hola.com/imagenes/decoracion/20200717171811/errores-frecuentes-montar-comedor-lm/0-845-636/errores-comedor-1t-t.jpg');
+    background-size: 430px 350px;
+}
+#estancia{
+    background: url('https://mx.habcdn.com/photos/project/medium/estancia-400794.jpg');
+    background-size: 430px 350px;
+}
+#recamara{
+    background: url('https://i.pinimg.com/originals/16/49/aa/1649aa13c36b8112d6b122f36aa40c8a.jpg');
+    background-size: 430px 350px;
+}
+#recamara2{
+    background: url('https://i.pinimg.com/originals/a3/2c/6d/a32c6d2d8a098568bdd891b475e8e8b7.jpg');
+    background-size: 430px 350px;
+}
+#sala{
+    background: url('https://i.pinimg.com/originals/c5/f0/74/c5f0746c838b2e64754809d3f8740321.jpg');
+    background-size: 430px 350px;
+}
